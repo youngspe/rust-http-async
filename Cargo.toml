@@ -1,0 +1,10 @@
+[package]
+authors = ["youngspe <spencerwyoung@outlook.com>"]
+name = "gj_test"
+version = "0.1.0"
+
+[dependencies]
+gj = { git = "https://github.com/youngspe/gj" }
+httparse = "*"
+openssl = "*"
+mio = "*"
